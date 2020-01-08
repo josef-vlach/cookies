@@ -1,0 +1,31 @@
+{
+  "authConfig": {
+    "authModule": "anonymous"
+  },
+  "formName": "Cookies Income Tax",
+  "destinations": [
+    {
+      "id": "transitionToSubmitted",
+      "type": "stateTransition",
+      "requiredState": "Submitted"
+    }
+  ],
+  "emailTemplateId": "temp",
+  "declarationSection": {
+    "title": "Declaration",
+    "shortName": "Declaration",
+    "fields": []
+  },
+  "acknowledgementSection": {
+    "title": "Confirmation page",
+    "shortName": "Acknowledgement Page",
+    "fields": []
+  },
+  "_id": "cookies",
+  "sections": [
+    {
+      "title": "Title",
+      "fields": []
+    }
+  ]
+}
