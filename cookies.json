@@ -56,7 +56,15 @@
     },
     {
       "title": "Other details",
-      "fields": []
+      "fields": [
+        {
+          "id": "otherInfo",
+          "type": "info",
+          "label": "Othrr Info",
+          "infoType": "standard",
+          "infoText": "# ABC\n## defghijkl"
+        }
+      ]
     }
   ]
 }
