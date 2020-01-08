@@ -41,6 +41,16 @@
           "id": "factoryName",
           "type": "text",
           "label": "Factory name"
+        },
+        {
+          "id": "factoryType",
+          "type": "choice",
+          "label": "What this factory make",
+          "choices": [
+            "Chocolate cookies",
+            "Salted caramel cookies",
+            "Salted cookies"
+          ]
         }
       ]
     }
