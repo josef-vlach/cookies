@@ -33,6 +33,10 @@
           "mandatory": "true"
         }
       ]
+    },
+    {
+      "title": "Cookies factory details",
+      "fields": []
     }
   ]
 }
