@@ -36,7 +36,13 @@
     },
     {
       "title": "Cookies factory details",
-      "fields": []
+      "fields": [
+        {
+          "id": "factoryName",
+          "type": "text",
+          "label": "Factory name"
+        }
+      ]
     }
   ]
 }
