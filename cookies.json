@@ -43,6 +43,12 @@
           "label": "Factory name"
         },
         {
+          "id": "factoryValue",
+          "type": "text",
+          "label": "Factory valuation",
+          "format": "positiveNumber(10,2,'Kg')"
+        },
+        {
           "id": "factoryType",
           "type": "choice",
           "label": "What this factory make",
